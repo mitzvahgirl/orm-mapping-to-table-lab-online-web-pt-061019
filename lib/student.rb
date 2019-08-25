@@ -40,5 +40,4 @@ attr_accessor :name, :grade
     student.save
     student
   end
-end
 
