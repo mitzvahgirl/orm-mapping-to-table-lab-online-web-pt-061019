@@ -41,3 +41,4 @@ attr_accessor :name, :grade
     student
   end
 
+end
